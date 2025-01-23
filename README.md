@@ -1,1 +1,1 @@
-**For information please see [our manuscript](https://github.com/MatteoPassalent/Predicting-Psychiatric-Diagnoses/blob/main/PsychiatricDiagnoses.pdf) which has been submitted to The IEEE Canadian Conference on Electrical and Computer Engineering**
+**For information please see [our manuscript](https://github.com/MatteoPassalent/Predicting-Psychiatric-Diagnoses/blob/main/PsychiatricDiagnoses.pdf) which has been submitted to The IEEE Canadian Conference on Electrical and Computer Engineering.**
